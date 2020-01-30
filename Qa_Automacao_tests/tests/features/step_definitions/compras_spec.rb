@@ -87,14 +87,3 @@ Entao("finalizo minha compra com sucesso") do
   find("#place_order").click
   sleep (2)
 end
-
-
-
-   #find("#basicBootstrapForm").click
-
-   #find("#basicBootstrapForm").click
-  #find("#msdd > div").click
-
-  #find(".ui-autocomplete-multiselect ui-state-default ui-widget", text: "Serbian").click
-  #seb = find("#msdd").set "Serbian"
-  #find(".ui-autocomplete-multiselect-item").click
